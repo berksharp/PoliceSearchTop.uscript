@@ -1,5 +1,3 @@
-// Buradan aşağı kısmı alınız başında çift slash işareti olan yerleri almanıza gerek yok.
-// Get down from here, you don't need to buy places with a double slash sign at the beginning.
 // ***************BILGILENDIRME***************
 // Police Ceza Kesme /w webhook destekli v1.0
 // Created By: Meedic Bear#7111 edited by berk.png#6627
